@@ -4,7 +4,7 @@
 ## Baixe e execute
 
 ```bash
-git clone https://github.com/Freitaszito/Poison
+git clone https://github.com/Freitael/Poison
 cd Poison
 chmod +x poison.sh
 ./poison.sh
